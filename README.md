@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Meu nome é Wesley Ruan sou de Nazaré da mata PE tenho 19 anos e vivo no mundo da tecnologia desde sempre.<br><br>- 🔭 Estudo Ciência da computação e estagio na Compass.uol<br>- 📚 Focando especialmente em Beck-end e Bando de Dados<br>- ⚡Gosto musica clássica e de rock</p>
+<p align="left">Meu nome é Wesley Ruan sou de Nazaré da mata PE tenho 19 anos e vivo no mundo da tecnologia desde sempre.<br><br>- 🔭 Estudo Ciência da computação e estagio na Compass.uol<br>- 📚 Focando especialmente em Beck-end e Bando de Dados<br>- ⚡Gosto de tudo que envolve música</p>
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
