@@ -1,14 +1,14 @@
-<h1 align="center">Olá👋</h1>
+<h1 align="center">Hi👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim:</h3>
+<h3 align="left">👩‍💻  About me:</h3>
 
 ###
 
-<p align="left">Meu nome é Wesley Ruan sou de Nazaré da mata PE tenho 19 anos e vivo no mundo da tecnologia desde sempre.<br><br>- 🔭 Estudo Ciência da computação e estagio na Compass.uol<br>- 📚 Focando especialmente em Beck-end e Bando de Dados<br>- ⚡Gosto de tudo que envolve música</p>
+<p align="left">My name is Wesley Ruan, I'm from Nazaré da Mata PE, I'm 19 years old and I've lived in the world of technology forever.<br><br>- 🔭 I study Computer Science and do an internship at Compass.uol<br>- 📚 Focusing especially on Beck-end and Database<br>- ⚡I like everything that involves music</p>
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
+<h3 align="left">🛠 Languages ​​and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
