@@ -39,5 +39,9 @@
    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="postgree logo" />
   <img width="15" />
+
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" height="50" alt="neo4j logo"/>
+  <img width="15" />    
  
 </div>
