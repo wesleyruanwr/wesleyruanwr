@@ -42,19 +42,20 @@
 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" height="50" alt="neo4j logo"/>
-  <img width="15" />    
+  <img width="25" />    
 
 
-  <p align="left">The next steps:<br><br>- Kubernetes <br>- Airflow <br>- Kafka</p>
+  <p align="left">The next steps:<br><br>- Kubernetes <br>- Kafka <br>- Airflow</p>
 
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="50" alt="kubernetes logo"/>
   <img width="9" />
   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="50" alt="kafka logo" />
+  <img width="9" />   
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="50" alt="airflow logo"/>
   <img width="9" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="50" alt="kafka logo" />
-  <img width="9" />        
                   
 </div>
