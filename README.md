@@ -48,13 +48,13 @@
   <p align="left">The next steps:<br><br>- Kubernetes <br>- Airflow <br>- Kafka</p>
 
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="35" alt="kubernetes logo"/>
-  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="50" alt="kubernetes logo"/>
+  <img width="9" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="35" alt="airflow logo"/>
-  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="50" alt="airflow logo"/>
+  <img width="9" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="35" alt="kafka logo" />
-  <img width="5" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="50" alt="kafka logo" />
+  <img width="9" />        
                   
 </div>
