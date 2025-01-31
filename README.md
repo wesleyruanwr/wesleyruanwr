@@ -44,8 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" height="50" alt="neo4j logo"/>
   <img width="15" />    
 
-
-  <p align="left">🎯 The next steps:<br><br>- Kubernetes <br>- Kafka <br>- Airflow</p>
+  <h3 align="left">🎯 The next steps</h3>
+  <p align="left"><br><br>- Kubernetes <br>- Kafka <br>- Airflow</p>
 
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="50" alt="kubernetes logo"/>
