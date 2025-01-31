@@ -11,8 +11,8 @@
 <h3 align="left">🛠 Languages ​​and tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
+  <img width="15" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain.svg" height="50" alt="pandas logo"/>
   <img width="15" />
@@ -42,7 +42,7 @@
 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" height="50" alt="neo4j logo"/>
-  <img width="25" />    
+  <img width="15" />    
 
 
   <p align="left">The next steps:<br><br>- Kubernetes <br>- Kafka <br>- Airflow</p>
