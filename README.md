@@ -43,5 +43,18 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" height="50" alt="neo4j logo"/>
   <img width="15" />    
+
+
+  <p align="left">The next steps:<br><br>- 🔭 Kubernetes <br>- Airflow <br>- Kafka</p>
+
  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="15" alt="kubernetes logo"/>
+  <img width="5" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="15" alt="airflow logo"/>
+  <img width="5" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="15" alt="kafka logo" />
+  <img width="5" />        
+                  
 </div>
