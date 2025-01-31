@@ -45,7 +45,7 @@
   <img width="15" />    
 
   <h3 align="left">🎯 The next steps</h3>
-  <p align="left"><<br>- Kubernetes <br>- Kafka <br>- Airflow</p>
+  <p align="left"><br>- Kubernetes <br>- Kafka <br>- Airflow</p>
 
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="50" alt="kubernetes logo"/>
