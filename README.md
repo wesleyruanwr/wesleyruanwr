@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Wesley Ruan, I'm from Recife - PE, I'm 20 years old and I've lived in the world of technology since always.<br><br>- 🔭 I study Computer Science <br>- 📚 focusing especially on Database and Beck-end<br>- ⚡I like everything that involves technology and music</p>
+<p align="left">My name is Wesley Ruan, I'm from Recife - PE, I'm 20 years old and I've lived in the world of technology since always.<br><br>- 🔭 Data Engineer at Bancorbrás <br>- 📚 I study Computer Science focusing especially on Database and Beck-end<br>- ⚡I like everything that involves technology and music</p>
 
 <h3 align="left">🛠 Languages ​​and tools</h3>
 
