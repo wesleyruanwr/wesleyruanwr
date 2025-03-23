@@ -57,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="50" alt="airflow logo"/>
   <img width="9" />
 
-  <h3 align="left">Contac: </h3>
+  <h3 align="left">Contact: </h3>
   <p align="left">- E-mail: ruanwesley682@gmail.com </p>
                   
 </div>
