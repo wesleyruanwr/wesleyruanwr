@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Wesley Ruan, I'm from Recife - PE, I'm 20 years old and I've lived in the world of technology since always.<br><br>- 🔭 Data Engineer at Accenture <br>- 📚 I study Computer Science focusing especially on Data and Beck-end<br>- ⚡I like everything that involves technology and music</p>
+<p align="left">My name is Wesley Ruan, I'm from Recife - PE, I'm 21 years old and I've lived in the world of technology since always.<br><br>- 🔭 Data Engineer at Accenture <br>- 📚 I study Computer Science focusing especially on Data and Beck-end<br>- ⚡I like everything that involves technology and music</p>
 
 <h3 align="left">🛠 Languages ​​and tools</h3>
 
