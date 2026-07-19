@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"/>
   <img width="15" />    
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="50" alt="airflow logo"/>
   <img width="15" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="aws logo" />
@@ -45,7 +45,7 @@
   <img width="15" />    
 
   <h3 align="left">🎯 The next steps</h3>
-  <p align="left">- Kubernetes <br>- Kafka <br>- Airflow</p>
+  <p align="left">- Kubernetes <br>- Kafka <br></p>
 
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="50" alt="kubernetes logo"/>
@@ -53,9 +53,6 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="50" alt="kafka logo" />
   <img width="9" />   
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="50" alt="airflow logo"/>
-  <img width="9" />
 
   <h3 align="left">Contact: </h3>
   <p align="left">- E-mail: ruanwesley682@gmail.com </p>
